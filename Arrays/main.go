@@ -8,7 +8,5 @@ func main() {
 	fruits[3] = "apple"
 	// len will always be the specified one
 	fmt.Println(len(fruits), fruits)
-	veggies := make([]string, 4)
-	fmt.Println(len(veggies))
-	fmt.Printf("%T", veggies)
+
 }
