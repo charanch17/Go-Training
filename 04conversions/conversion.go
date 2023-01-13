@@ -18,5 +18,12 @@ func main() {
 	} else {
 		fmt.Println("err", err)
 	}
+	x := int(3.0)
+	fmt.Println(x)
+
+	s := "hello"
+	bs := []byte(s)
+	fmt.Printf("%T", bs)
+	fmt.Println(bs)
 
 }

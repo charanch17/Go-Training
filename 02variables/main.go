@@ -23,6 +23,6 @@ func main() {
 	//volrus op
 	x := 1
 
-	fmt.Println("%T %T %T %T", intValue, stringValue, boolValue, floatValue)
+	fmt.Printf("%T %T %T %T", intValue, stringValue, boolValue, floatValue)
 	fmt.Println(defInt, defBool, defFloat, defString, x)
 }

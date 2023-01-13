@@ -6,6 +6,7 @@ func greeter(name string) string {
 	return "hello " + name
 }
 
+// variadic function
 func proadder(values ...int) int {
 	total := 0
 	for _, val := range values {

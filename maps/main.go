@@ -11,4 +11,7 @@ func main() {
 
 	delete(mapEx, "rb")
 	fmt.Println(mapEx)
+	for k, v := range mapEx {
+		fmt.Println(k, v)
+	}
 }
