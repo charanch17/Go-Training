@@ -1,0 +1,11 @@
+EmployeeId,Name,Age,Designation,Salary
+1,charanch,22,ASE,5000000
+2,Dannyr,22,SE,43000
+3,mr.beand,23,SE,43000
+4,godseys,52,SE,43000
+5,oggye,82,SE,43000
+6,tommyk,52,SE,43000
+7,jerryd,22,SE,43000
+8,doremonu,12,SE,43000
+9,suzukac,26,SE,43000
+10,pinkpanthery,29,SE,43000
